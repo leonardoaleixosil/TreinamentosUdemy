@@ -1,0 +1,6 @@
+Table_Name,ObjectID,NumOID,ImportID,ModelID,Num_ModelID,Structured_Type_ID,Num_Structured_Type_ID,Structured_Type_Name,Number_Data_Elements,Classification_Type,Allow_Type_Substitution,Min_Volume,Expected_Volume,Max_Volume,Growth_Rate_Percents,Growth_Rate_Interval,Normal_Form,Temporary_Object_Scope,Adequately_Normalized,Substitution_Parent,Num_Substitution_Parent,Engineer,Spatial_Table,OID_is_PK,OID_is_User_Defined,Include_Scripts_Into_DDL
+"Contatos",A0CC19BA-59C2-DD2F-E3D0-F836BD88ADF9,70,,B5F52A18-BB8E-25BD-B12C-EE3D44A35E24,69,,,,3,,Y,0,0,9999999,0,Year,Third,,N,,,Y,N,N,Y,N,
+"Emails",5D9127ED-0314-17EF-1AF8-0FC6F74E21BE,71,,B5F52A18-BB8E-25BD-B12C-EE3D44A35E24,69,,,,5,,Y,0,0,9999999,0,Year,Third,,N,,,Y,N,N,Y,N,
+"Enderecos",D9C6277D-939F-7AC4-3DC2-13CE0320D447,72,,B5F52A18-BB8E-25BD-B12C-EE3D44A35E24,69,,,,8,,Y,0,0,9999999,0,Year,Third,,N,,,Y,N,N,Y,N,
+"Telefones",7129D239-B274-E176-202D-FB6249AB2248,73,,B5F52A18-BB8E-25BD-B12C-EE3D44A35E24,69,,,,6,,Y,0,0,9999999,0,Year,Third,,N,,,Y,N,N,Y,N,
+"Tipos",F9A6D2BB-57F8-7C01-0BD4-9C8E8BE96AC6,74,,B5F52A18-BB8E-25BD-B12C-EE3D44A35E24,69,,,,2,,Y,0,0,9999999,0,Year,Third,,N,,,Y,N,N,Y,N,
