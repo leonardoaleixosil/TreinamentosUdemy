@@ -1,0 +1,7 @@
+C:\treinamentos_Udemy\CSharp\FundamentosemCSharp\InttroducaoVisualCSharp\bin\Debug\InttroducaoVisualCSharp.exe.config
+C:\treinamentos_Udemy\CSharp\FundamentosemCSharp\InttroducaoVisualCSharp\bin\Debug\InttroducaoVisualCSharp.exe
+C:\treinamentos_Udemy\CSharp\FundamentosemCSharp\InttroducaoVisualCSharp\bin\Debug\InttroducaoVisualCSharp.pdb
+C:\treinamentos_Udemy\CSharp\FundamentosemCSharp\InttroducaoVisualCSharp\obj\Debug\InttroducaoVisualCSharp.csprojAssemblyReference.cache
+C:\treinamentos_Udemy\CSharp\FundamentosemCSharp\InttroducaoVisualCSharp\obj\Debug\InttroducaoVisualCSharp.csproj.CoreCompileInputs.cache
+C:\treinamentos_Udemy\CSharp\FundamentosemCSharp\InttroducaoVisualCSharp\obj\Debug\InttroducaoVisualCSharp.exe
+C:\treinamentos_Udemy\CSharp\FundamentosemCSharp\InttroducaoVisualCSharp\obj\Debug\InttroducaoVisualCSharp.pdb
